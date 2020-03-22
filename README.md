@@ -14,3 +14,7 @@
 
 ## Bibliography:
 * Jason Edelman. Network Programmability and Automation. O'Reilly Media. 1st edition (March 3, 2018)
+
+## Presentation Video
+[![How does bot work like.](https://img.youtube.com/vi/M_0e8z5Yrmg&feature/maxresdefault.jpg)](https://www.youtube.com/watch?v=M_0e8z5Yrmg&feature=youtu.be)
+https://youtu.be/M_0e8z5Yrmg
