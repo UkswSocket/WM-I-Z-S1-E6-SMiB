@@ -17,4 +17,3 @@
 
 ## Presentation Video
 [![QT Network Messenger.](https://img.youtube.com/vi/M_0e8z5Yrmg/maxresdefault.jpg)](https://www.youtube.com/watch?v=M_0e8z5Yrmg&feature=youtu.be)
-https://youtu.be/M_0e8z5Yrmg
